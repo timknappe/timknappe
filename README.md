@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gollasso
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Java, C++, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
