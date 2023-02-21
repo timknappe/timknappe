@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Gollasso
+- 👋 Hi, I’m Tim
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning Java, C++, C# and reactJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 If you want to reach out, just write me an Email Tim-Knappe@gmx.de
 
 <!---
 Gollasso/Gollasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
