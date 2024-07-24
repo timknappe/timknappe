@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m a CS undergraduate student, working for T Systems International. 
-- 🧪 I conduct independent reasearch partnered with UMich's SLED-Lab and Algoverse on various projects
+- 🧪 I conduct independent reasearch and previously worked with with UMich's SLED-Lab and Algoverse on various projects
 - 📫 If you want to reach out or collaborate, contact me at: cs.timknappe@gmail.com
